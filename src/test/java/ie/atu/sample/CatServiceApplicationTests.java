@@ -1,4 +1,4 @@
-package com.example.catservice;
+package ie.atu.sample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

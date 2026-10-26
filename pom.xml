@@ -8,11 +8,11 @@
         <version>4.1.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>cat-service</artifactId>
+    <groupId>ie.atu</groupId>
+    <artifactId>sample-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cat-service</name>
-    <description>cat-service</description>
+    <name>sample-service</name>
+    <description>sample-service</description>
     <url/>
     <licenses>
         <license/>

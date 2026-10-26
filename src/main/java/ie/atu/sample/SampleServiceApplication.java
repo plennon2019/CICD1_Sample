@@ -1,13 +1,13 @@
-package com.example.catservice;
+package ie.atu.sample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CatServiceApplication {
+public class SampleServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CatServiceApplication.class, args);
+        SpringApplication.run(SampleServiceApplication.class, args);
     }
 
 }
